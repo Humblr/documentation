@@ -142,8 +142,8 @@ Now that [`rbenv`](https://github.com/rbenv/rbenv) and [`ruby-build`](https://gi
 To enable [Ruby](https://www.ruby-lang.org/en/), run:
 
 ```sh
-rbenv install 2.5.1
-rbenv global 2.5.1
+rbenv install 2.5.3
+rbenv global 2.5.3
 ```
 
 **This will take some time. Go stretch for a bit and drink some water while the commands run.**
